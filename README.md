@@ -2,6 +2,8 @@
 
 Welcome to the eCommerce Platform Project built using the MERN (MongoDB, Express.js, React, Node.js) Stack. This project provides a robust and full-featured online shopping platform with various functionalities to enhance the user experience.
 
+**Live Website** - https://mern-laptop.onrender.com
+
 ## Features
 
 - **Full-Featured Shopping Cart**: Seamless shopping cart functionality for users to add, remove, and manage products.
@@ -109,9 +111,7 @@ npm run data:destroy
   - John Doe
     - Email: john@email.com
     - Password: john123
-  - Alice Smith
-    - Email: alice@email.com
-    - Password: alice123
+ 
 
 Feel free to explore and customize this eCommerce platform for your specific needs. Happy coding🤩!
 
